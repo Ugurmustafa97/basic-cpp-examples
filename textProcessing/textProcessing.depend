@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532945016 source:/home/mustafa/2018 Bahar/ExamplesC++/textProcessing/main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+

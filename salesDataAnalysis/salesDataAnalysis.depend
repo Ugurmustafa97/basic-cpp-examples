@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1533484152 source:/home/mustafa/2018 Bahar/ExamplesC++/salesDataAnalysis/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
