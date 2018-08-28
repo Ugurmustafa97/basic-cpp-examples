@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1535311850 source:/home/mustafa/2018 Bahar/ExamplesC++/gradeReport/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"studentType.h"
+
+1535306781 source:/home/mustafa/2018 Bahar/ExamplesC++/gradeReport/courseTypeImp.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	"courseType.h"
+
+1535307655 /home/mustafa/2018 Bahar/ExamplesC++/gradeReport/courseType.h
+	<fstream>
+	<string>
+
+1535291454 source:/home/mustafa/2018 Bahar/ExamplesC++/gradeReport/personTypeImp.cpp
+	<iostream>
+	<string>
+	"personType.h"
+
+1535306790 /home/mustafa/2018 Bahar/ExamplesC++/gradeReport/personType.h
+	<string>
+
+1535306811 /home/mustafa/2018 Bahar/ExamplesC++/gradeReport/studentType.h
+	<fstream>
+	<string>
+	"personType.h"
+	"courseType.h"
+
+1535311982 source:/home/mustafa/2018 Bahar/ExamplesC++/gradeReport/studentType.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"personType.h"
+	"courseType.h"
+	"studentType.h"
+
