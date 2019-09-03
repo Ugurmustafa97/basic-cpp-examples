@@ -2,7 +2,7 @@
 #include <iomanip>
 
 using namespace std;
-
+/*
 // Named constants - residental costumers
 const double RES_BILL_PROC_FEES = 4.50;
 const double RES_BASIC_SERV_COST =  20.50;
@@ -13,7 +13,7 @@ const double BUS_BILL_PROC_FEES = 15.00;
 const double BUS_BASIC_SERV_COST = 75.00;
 const double BUS_BASIC_CONN_COST = 5.00;
 const double BUS_COST_PREM_CHANNEL = 50.00;
-
+*/
 int main()
 {
         // Variable declaration
