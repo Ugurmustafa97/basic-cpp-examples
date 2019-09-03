@@ -4,7 +4,7 @@
 #include <string>
 
 using namespace std;
-
+/*
 class personType
 {
 public:
@@ -22,5 +22,5 @@ private:
     string firstName;
     string lastName;
 }; // end personType
-
+*/
 #endif // H_personType
