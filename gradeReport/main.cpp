@@ -10,11 +10,12 @@ const int MAX_NO_OF_STUDENTS = 10;
 void getStudentData(ifstream& infile,
                     studentType studentList[],
                     int numberOfStudents);
-
+/*
 void printGradeReports(ofstream& outfile,
                        studentType studentList[],
                        int numberOfStudents,
                        double tuitionRate);
+											 */
 int main()
 {
     studentType studentList[MAX_NO_OF_STUDENTS];
